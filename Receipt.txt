@@ -1,0 +1,5 @@
+Your items are: 
+1. 4 * Water 0.5? price of2.0 
+1. 8 * Chocolate 2? price of16.0 
+1. 4 * Drink 1? price of4.0 
+1. 8 * Chocolate 2? price of16.0 
